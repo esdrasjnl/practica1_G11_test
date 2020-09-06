@@ -1,3 +1,2 @@
 # practica1_G11
-
-#### 201503986 Edwar Everaldo Zacarias
+#### 201513699 Esdras Jonatan Noj Larios
